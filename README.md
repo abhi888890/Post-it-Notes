@@ -1,1 +1,1 @@
-# Post-it Notes
+# Sticky Notes
