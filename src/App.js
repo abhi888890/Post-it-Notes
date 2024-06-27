@@ -6,7 +6,7 @@ import Header from './components/Header';
 import './index.css';
 
 const App = () => {
-	const [, setNotes] = useState([
+	const [notes, setNotes] = useState([
 		{
 			id: nanoid(),
 			text: 'Hello ram this is my first note!',
