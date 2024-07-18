@@ -16,6 +16,4 @@ const Header = ({ handleToggleDarkMode }) => {
 			</button>
 		</div>
 	);
-};
-C:\Users\ABHISHEK\Downloads\Sticky-notes-react-app-master\Sticky-notes-react-app-master\src
-export default Header;
+};export default Header;
